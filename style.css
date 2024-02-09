@@ -1,0 +1,1010 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    padding: 5px;
+}
+header{
+    background-color: black;
+    height: 117px;
+    width: 100%;
+    align-items: center;
+   padding-bottom: 18px;
+}
+.redblock{
+    color: aliceblue;
+    background-color: red;
+    border-radius: 5px;
+    padding: 10px;
+    height: 100px;
+    width:700px;
+   margin: auto;
+}
+main{
+    height: 100%;
+    /* width: 100%; */
+}
+.sec-1{
+    background-color: rgb(36, 23, 23);
+    
+}
+
+section h3{
+    color:yellow ;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+section h1{
+    color:yellow ;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+}
+.blog{
+    color: white;
+    text-align: center;
+    font-family: Arial;
+    font-size: 17px;
+}
+.image{
+    width: 780px;
+    align-items: center;
+    padding: 20px;
+    margin: auto;
+    display: flex;
+}
+.register{
+    color: white;
+    font-size: 21px;
+    font-family: Arial;
+    text-align: center;
+    padding: 10px;
+    transition: 2s;
+}
+.day-time{
+    display: flex;
+   justify-content: center;
+    align-items: center;
+    color: white;
+    padding: 8px;
+}
+/* .timeline{
+    display: flex;
+   justify-content: center;
+    align-items: center;
+    color: black;
+    padding: 8px;
+} */
+.day{
+    width: 5rem;
+    height: 5rem;
+    border: 3px solid black;
+    background-color: #B9B3B3;
+    border-radius: 1rem;
+    text-align: center;
+    color: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    font-weight: bold;
+}
+.timer{
+    text-align: center;
+    margin: 10px 10px;
+}
+.learning{
+    padding: 50px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.Listdata{
+    margin: auto !important;
+    display: flex;
+    text-align: start !important;
+    /* justify-content: center; */
+    align-items: center;
+    font-size: 18px;
+    font-family: Arial;
+    color: white;
+    font-weight: bold;
+    line-height: 35px;
+    margin-left: 10px;
+}
+ul{
+    list-style: none;
+}
+.yellowcolor{
+    color: yellow;
+}
+.arrow{
+    color: blue;
+}
+.learning h1{
+    font-weight: bold;
+    color: white;
+    font-size: 35px;
+}
+.whiteblock{
+    background-color: white;
+    border-radius: 8px;
+    width: 100%;
+    height: 100px;
+    padding: 10px;
+}
+.megabonus{
+    background-color: black;
+    padding-bottom: 14px;
+    margin-top: 33px;
+    width: 100%;
+    height: 100px;
+}
+.mega{
+    font-size: 50px;
+    color: white;
+}
+.mega span{
+    color: yellow;
+}
+.value{
+    font-size: 24px;
+}
+.sec-2{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+   justify-content:center ;
+}
+ .cards{
+    background-color: gray;
+    border: 1px solid gray;
+    border-radius: 5px;
+    width: 250px;
+    height: 200px;
+    margin: 10px;
+    margin-top: 10px;
+}
+.cardsContainer
+{
+    display: flex;
+    margin: auto;
+    margin-bottom: 20px;
+}
+.register-2{
+    color: black;
+    font-size: 25px;
+    font-family: Arial;
+    text-align: center;
+    padding: 10px;
+}
+.sec-3{
+    background-color: #ECE4E4;
+}
+.sec-3 h1{
+    color: black;
+    padding-top: 10px;
+}
+.pcards{
+    display: flex;
+    justify-content: center;
+   padding: 20px;
+
+
+}
+.plogo{
+    background-color: white;
+    border-radius: 10px;
+    height: 350px;
+    width: 230px;
+    margin: 10px;
+    
+}
+.logo{
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    border-radius: 50%;
+  margin-left: 65px;
+  margin-top: 10px;
+  
+}
+.sec-4{
+    background-color:#F0FFFF;
+    margin: auto;
+}
+.pic{
+    width: 300px;
+    height: 295px;
+    border-radius: 5px;
+    margin: 40px;
+     margin-left: 200px;
+}
+.mentor{
+    display: flex;
+}
+.host{
+    text-align: center;
+    font-size: 22px;
+    margin: 10px;
+    width: 600px;
+    text-align: center;
+}
+.para{
+    padding: 10px;
+    width: 700px;
+    font-size: 17px;
+    font-weight: 500;
+    text-align: center;
+    
+}
+.sec-5{
+   background-color: #F0FFFF; 
+   
+}
+.sec-6 {
+    background-color:#F0FFFF;
+    margin: auto;
+    
+}
+
+.sec-6 p{
+    text-align: center;
+    font-size: 22px;
+    font-weight: 450;
+   margin: 30px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.container-1{
+    background-color: #B9B3B3;
+   border-radius: 8px;
+    width: 500px;
+    height: 200px;
+    padding: 20px;
+    margin: 0px;
+}
+footer{
+    background-color: #F0FFFF;
+}
+.blue{
+    background-color:#0000FF;
+    color: white; 
+}
+.blue h2{
+    text-align: center;
+    padding: 18px;
+    font-size: 30px;
+    font-weight: bolder;
+}
+.reg{
+    color: white;
+}
+.team{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+   margin: 20px;
+}
+.lastimg{
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+}
+.lastimg img{
+    margin:auto;
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    border-radius: 50%;
+  
+  margin-top: 5px;
+ }
+.lastimg p{
+    text-align: center !important;
+}
+.values{
+    color: black;
+    font-weight: bolder;
+}
+.white{
+    color: white;
+}
+
+
+
+
+
+
+@media (min-width:250px) and (max-width:350px)  {
+    .redblock{
+        margin: auto;
+        width: 100%;
+        height:80px;
+    
+    }
+    .sec-1{
+        padding: 0px 5px;
+    }
+    .value{
+        font-size:19px ;
+        margin-top: 10px;
+    }
+    .blog{
+        font-size: 17px;
+    }
+    .image{
+        width: 100%;
+        height: auto;
+    }
+    .register{
+        font-size: 1rem;
+        line-height: 28px;
+    }
+    .timer{
+     width: 100%;
+     height: auto;
+
+        text-align: center;
+        margin: 10px 0px;
+    }
+    .megabonus{
+        height: auto;
+        padding: 10px;
+    }
+    .mega{
+        font-size: 1.5rem;
+    }
+    .megabonus .value{
+        font-size:1rem;
+    }
+    .cardsContainer{
+        flex-direction: column;
+    }
+    .pcards{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+    }
+    .sec-3 h1 {
+      font-size: 1.2rem;
+      line-height: 26px;
+    }
+    .mentor{
+        flex-direction: column;
+    }
+    .pic{
+        margin: auto;
+        width: 100%;
+        height: auto;
+        padding: 1rem;
+    }
+    .para{
+        font-size: 18px;
+        width: auto;
+         }
+    .host{
+        width: auto;
+    }
+    .container{
+        
+        flex-direction: column;
+        justify-content: center;
+     
+    }
+    .container-1 {
+        margin: auto;
+        background-color: #B9B3B3;
+        border-radius: 8px;
+        width: 100%;
+        height: 200px;
+        padding: 20px;
+        margin: 15px;
+    }
+    .register-2{
+        font-size: 1rem;
+    }
+    .day{
+        margin: auto;
+        display: flex;
+        justify-content: center;
+        width: 18vw;
+        height: 4rem;
+        font-size: 1.8rem;
+
+       
+    }
+   
+    .day-time .values{
+        font-size: 15px;
+        font-weight: 400;
+    }
+    
+    .container-1{
+      margin: auto;
+      margin-top: 10px;
+      
+        }
+    .lastimg img{
+             margin-left: 0px; 
+              
+    }
+    .team{
+        font-size: 1rem;
+        margin: 8px;
+    }
+    .learning h1{
+        font-size:1.7rem;
+       
+
+    }
+    ul {
+        /* padding-left: 2rem; */
+        margin: -15px;
+        line-height: 28px;
+    }
+    li{
+        font-size: 1rem;
+    }
+    .para{
+        font-size: 1rem;
+    }
+    .lastimg p{
+        font-size: 14px;
+    }
+    .blue h2{
+        font-size: 1.4rem;
+    }
+    .Listdat{
+        font-size: 1rem;
+       
+    }
+    section h3{
+        font-size: 1rem;
+        padding-top: 5px;
+    }
+}
+
+
+@media (min-width:350px) and (max-width:499px)    {
+    /* *{
+        background-color: red;
+    } */
+   
+    header{
+        background-color: black;
+        height: 117px;
+        width: 100%;
+        align-items: center;
+       padding-bottom: 18px;
+      
+      
+    }
+    .main-red{
+        padding: 16px;
+    }
+    .redblock{
+        margin: auto;
+        color: aliceblue;
+        background-color: red;
+        border-radius: 5px;
+        height: 100px;
+        width:auto;
+     
+      
+    }
+    main{
+        height: 100%;
+        width: 100%;
+    }
+    .sec-1{
+        background-color: rgb(36, 23, 23);
+        
+    }
+    
+    section h3{
+        color:yellow ;
+        font-family: Arial;
+        font-weight: bold;
+        font-size: 20px;
+        text-align: center;
+        padding-top: 16px;
+    }
+    section h1{
+        color:yellow ;
+        font-family: Arial;
+        font-weight: bold;
+        font-size: 40px;
+        text-align: center;
+    }
+    .blog{
+        color: white;
+        text-align: center;
+        font-family: Arial;
+        font-size: 17px;
+        padding: 10px;
+    }
+    .image{
+        margin: auto;
+        width:80vw;
+        height: auto;
+        align-items: center;
+        padding: 20px;
+       
+        display: flex;
+    }
+    .register{
+        color: white;
+        font-size: 21px;
+        font-family: Arial;
+        text-align: center;
+        padding: 10px;
+        transition: 2s;
+    }
+    .day-time{
+        display: flex;
+       justify-content: center;
+        align-items: center;
+        color: white;
+        padding: 5px;
+    }
+    .timer{
+        text-align: center;
+        margin: 5px 5px;
+        
+    }
+    .day{
+        width: 19vw;
+    }
+    .learning{
+        margin: auto;
+        padding: 50px;
+      
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .Listdata{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center !important;
+        /* margin: auto !important;
+        display: flex;
+        text-align: center !important;
+        justify-content: center;
+        align-items: center; */
+        font-size: 18px;
+        font-family: Arial;
+        color: white;
+        font-weight: bold;
+        line-height: 35px;
+        width: 75vw;
+    }
+   ul{
+        list-style: none;
+    }
+    ol, ul {
+        padding-left: 0rem !important;
+    }
+    .yellowcolor{
+        color: yellow;
+    }
+    .arrow{
+        color: blue;
+    }
+    .learning h1{
+        font-weight: bold;
+        color: white;
+        font-size: 28px;
+    }
+    .whiteblock{
+        background-color: white;
+        border-radius: 8px;
+        width: auto;
+        height: 100px;
+        padding: 10px;
+    }
+    .megabonus{
+        background-color: black;
+        padding-bottom: 14px;
+        margin-top: 33px;
+        width: 100%;
+        height: auto;
+    }
+    .mega{
+        font-size: 30px;
+        color: white;
+        line-height: 2.1rem;
+    }
+    .mega span{
+        color: yellow;
+    }
+    .value{
+        font-size: 20px;
+        line-height: 1.4rem;
+    }
+    .redd{
+        width: 85vw;
+    }
+    .sec-2{
+        background-color: white;
+        display: flex;
+        flex-direction: column;
+       justify-content:center ;
+       padding: 16px;
+    }
+
+    .main-white{
+        padding: 16px;
+    }
+     .cards{
+        background-color: gray;
+        border: 1px solid gray;
+        border-radius: 5px;
+        width: 250px;
+        height: 200px;
+        margin: 10px;
+        margin-top: 10px;
+    }
+    .cardsContainer
+    {  margin: auto;
+        display: flex;
+       flex-direction: column;
+        margin-bottom: 20px;
+    }
+    .register-2{
+        color: black;
+        line-height: 24px;
+        font-size: 20px;
+        font-family: Arial;
+        text-align: center;
+        padding: 10px;
+    }
+    .sec-3{
+        background-color: #ECE4E4;
+        height: auto;
+        width: 100%;
+    }
+    .sec-3 h1{
+        color: black;
+        padding-top: 10px;
+        font-size: 25px;
+        padding: 16px;
+    }
+    .pcards{
+        display: flex;
+       flex-direction: column;
+       padding: 16px;
+    
+    
+    }
+    .plogo{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: white;
+        border-radius: 10px;
+        height: 350px;
+        width: 100%;
+        margin: 0px;
+        margin-top: 16px;
+        
+    }
+    .logo{
+        margin: auto;
+        width: 100px;
+        height: 100px;
+        border: 2px solid black;
+        border-radius: 50%;
+     
+      margin-top: 10px;
+      
+    }
+    .sec-4{
+        background-color:#F0FFFF;
+        margin: auto;
+        height: auto;
+        width: 100%;
+    }
+    .pic{
+        margin: auto;
+        width: 100%;
+        height: auto;
+        border-radius: 5px;
+        margin: 10px 0px;
+        padding: 16px;
+       
+         
+    }
+    .dolor{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .mentor{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .yourhost{
+        margin: auto;
+        text-align: center;
+    }
+    .megabonus {
+        padding:10px 0px;
+        line-height: 15px;
+    }
+    .host{
+        text-align: center;
+        font-size: 22px;
+         width: 97vw;
+    }
+    .mentor .para{
+        width:87vw ;
+
+    }
+    .mentor h2{
+        margin: auto;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+    }
+    .namee{
+        font-size: 1.5rem;
+        width: 97vw;
+        text-align: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .para {
+      
+        width: 700px;
+        font-size: 17px;
+       
+        text-align: center;
+        
+    }
+    .sec-5{
+       background-color: #F0FFFF; 
+       padding: 16px;
+       height: auto;
+       width: 90%;
+       
+    }
+    .sec-6 {
+        background-color:#F0FFFF;
+        margin: auto;
+        
+    }
+    
+    .sec-6 p{
+        text-align: center;
+        font-size: 22px;
+        font-weight: 450;
+       margin: 30px;
+    }
+    .container{
+        display: flex;
+       flex-direction: column;
+    }
+    .container-1{
+        background-color: #B9B3B3;
+       border-radius: 8px;
+        width: 100%;
+        height: 100px;
+        padding: 10px 0px;
+        margin: 0px;
+        margin-top: 16px;
+    }
+    footer{
+        background-color: #F0FFFF;
+    }
+    .blue{
+        background-color:#0000FF;
+        color: white; 
+        width: 91%;
+        height: auto;
+        padding: 16px;
+    }
+    .blue h2{
+        text-align: center;
+        padding: 18px;
+        font-size: 30px;
+        font-weight: bolder;
+    }
+    .reg{
+        color: white;
+    }
+    .team{
+        font-size: 20px;
+        font-weight: bold;
+        text-align: center;
+       margin: 20px;
+    }
+    .lastimg{
+      display: flex;
+      flex-direction: column;
+      margin: auto;
+      justify-content: center;
+      align-items: center;
+    }
+    .lastimg img{
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100px;
+        height: 100px;
+        border: 2px solid black;
+        border-radius: 50%;
+      margin-top: 5px;
+     }
+    .lastimg p{
+        text-align: center !important;
+    }
+    .values{
+        color: black;
+        font-weight: bolder;
+    }
+    .white{
+        color: white;
+    }
+    
+    
+}
+
+
+
+
+
+
+@media (min-width:500px) and (max-width:779px) {
+    
+    .redblock{
+        width: auto;
+        margin: 0px 10px;
+    }
+    .image{
+        width:91vw;
+        height: 100%;
+    }
+    .register{
+        font-size: 1.2rem;
+    }
+    .register-2{
+        font-size: 1.2rem;
+    }
+    .sec-1 h3{
+        font-size: 1.6rem;
+        padding: 10px 10p18
+    }
+    .value{
+        font-size: 2rem;
+        padding: 10px;
+    }
+    .values{
+        font-size: 17px;
+        font-family: Arial;
+    }
+    .blog{
+        font-size: 18px;
+    }
+    .megabonus{
+        width: 100%;
+        height: auto;
+    }
+    .mega{
+        font-size: 2.5rem;
+        padding-top: 13px;
+    }
+    .megabonus .value{
+        font-size: 1.3rem;
+    }
+    .day{
+       font-size: 2.5rem;
+     
+        
+    }
+     .cardsContainer{
+        flex-direction: column;
+    }
+    
+    .learning h1{
+        font-size: 2rem;
+    }
+    .Listdata ul li{
+        font-size: 1.1rem;
+        line-height: 35px;
+    }
+    .whiteblock{
+        padding: 0px 15px;
+        width: auto;
+        margin: 5px;
+    }
+    .sec-3 h1{
+        font-size: 2rem;
+    }
+    .pcards{
+        flex-direction: column;
+
+    }
+    .plogo{
+        width: auto;
+     }
+     .logo{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: auto; 
+       width: 100px;
+       height: 100px;
+    }
+    .mentor{
+        flex-direction: column;
+    }
+    .pic{
+     margin: auto;
+    display: flex;
+    width: 60vw;
+    height: 55vh;
+    margin-top: 10px;
+   
+    }
+    .namee{
+        text-align: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .para{
+        width: auto;
+     font-size: 1rem;
+     margin: 10px;
+    }
+    
+    .mentor .para{
+        width: 90vw;
+    }
+    .host{
+        margin: auto;
+        padding: 7px;
+        width: 63vw;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+
+    }
+    .container{
+        flex-direction: column;
+        
+    }
+    .container-1{
+        padding: 0px 10px ;
+        width:auto;
+        height: 205px;
+        margin-top: 10px;
+
+    }
+    .blue h2{
+        font-size: 1.7rem;
+    }
+    .lastimg img{
+        margin-top: 0px;
+        margin-bottom: 1.1rem;
+    }
+}
